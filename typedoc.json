@@ -1,0 +1,6 @@
+{
+    "inputFiles": ["./modules"],
+    "mode": "modules",
+    "out": "docs",
+    "exclude": "modules/index.ts"
+}
